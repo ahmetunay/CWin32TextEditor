@@ -20,5 +20,5 @@ Buttons :
 3. Button: "Save"  Save your writeing in project
 User Catalog
 
-![Image](screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/24591571/27908500-c9c41dd2-6254-11e7-92ee-a43e10e05651.png)
 
