@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1483342106 source:c:\users\tunay\desktop\cd\notepad\main.c
+	<windows.h>
+	<commctrl.h>
+	"resource3.h"
+
+1499338261 source:d:\ahmet-tunay\tüm-dersler\1.dönem\prolab\1.2metin editörü\metin editörü\notepad\main.c
+	<windows.h>
+	<commctrl.h>
+	"resource3.h"
+
+1499338261 source:d:\ahmet-tunay\tüm-dersler\1.dönem\prolab\1.2metin editörü\metin editörü\simple texeditor\main.c
+	<windows.h>
+	<commctrl.h>
+	"resource3.h"
+
